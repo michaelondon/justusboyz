@@ -1374,7 +1374,8 @@ h1, h2, h3, h4, h5,
   color: #fff; }
 
 .how-it-work-item p {
-  color: white; }
+font-size: 30px;
+color: white; }
 
 .person h3 {
   font-size: 18px; }
