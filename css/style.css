@@ -102,6 +102,10 @@ h1, h2, h3, h4, h5,
   .site-section.site-section-sm {
     padding: 4em 0; }
 
+
+
+
+
 .site-section-heading {
   position: relative;
   font-size: 2.5rem; }
@@ -1374,7 +1378,7 @@ h1, h2, h3, h4, h5,
   color: #fff; }
 
 .how-it-work-item p {
-font-size: 30px;
+font-size: 0px;
 color: white; }
 
 .person h3 {
