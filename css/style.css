@@ -283,7 +283,7 @@ h1, h2, h3, h4, h5,
     width: 100%; }
   .site-navbar .site-logo {
     position: relative;
-    top: -4px; }
+    top: 10px; }
     .site-navbar .site-logo a {
       color: #fff; }
   .site-navbar .site-menu-toggle {
